@@ -1,0 +1,54 @@
+input[pattern]:invalid {
+  color: red;
+}
+h1 {
+  margin: auto;
+}
+.great {
+  color: green;
+
+  margin-left: 40%;
+  margin-right: 40%;
+  font-size: 68px;
+  text-align: center;
+}
+.inputs {
+  margin-top: 15%;
+  margin-left: 0%;
+  margin-right: 30%;
+}
+.results {
+  margin-top: 15%;
+  margin-left: 20%;
+  margin-right: 0%;
+}
+.desc {
+  font-size: 60px;
+  text-align: center;
+}
+.title {
+  font-size: 42px;
+  text-align: center;
+}
+.circle {
+  background: orange;
+  border-radius: 200px;
+  color: white;
+  height: 200px;
+  font-weight: bold;
+  width: 200px;
+  display: table;
+  margin: 20px auto;
+}
+.circlegood {
+  background: green;
+}
+.circlebad {
+  background: red;
+}
+.circle p {
+  margin-top: 25%;
+  margin-left: 17%;
+  margin-right: 25%;
+  font-size: 68px;
+}
